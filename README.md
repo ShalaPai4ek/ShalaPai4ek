@@ -1,100 +1,18 @@
-# Cybersecurity & Backend Portfolio
+<h1 align="center">Hi 👋, I'm ShalaPai4ek</h1>
+<h3 align="center">I am an aspiring information security specialist with a practical focus on Linux, network security, and web development.</h3>
 
-> Junior Information Security Specialist | Backend Developer (Python/Flask)  
-> Студент 3 курса специальности «Обеспечение информационной безопасности телекоммуникационных систем»
+- 🌱 I’m currently learning **Rust and CTF tasks**
 
----
+- 📫 How to reach me **shalapai4ek@gmail.com**
 
-### Обо мне
+- ⚡ Fun fact **I don’t post everything I do on GitHub :P**
 
-Здравствуйте! Я начинающий специалист по информационной безопасности с сильным практическим уклоном в Linux, сетевую безопасность и веб-разработку.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-Активно изучаю offensive и defensive практики, решаю машины на Hack The Box, настраиваю безопасную инфраструктуру и разрабатываю бэкенд с акцентом на безопасность.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
 
-**Цели**: Junior ИБ-специалист / SOC L1 / Junior Backend Developer.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shalapai4ek&show_icons=true&locale=en" alt="shalapai4ek" /></p>
 
----
-
-### Основные навыки
-
-**Операционные системы**
-- Arch Linux (основная система)
-- Kali Linux (VirtualBox + инструменты)
-- Astra Linux (сертификат курса)
-
-**Сетевая безопасность & Инструменты**
-- nmap, gobuster, seclists, John the Ripper
-- Wireshark (минимальный уровень)
-- SSH (key-based auth), ZeroTier, VPN, Tor
-- ClamAV
-- Настройка VPS
-
-**Backend & Разработка**
-- Python, Bash
-- Flask + MySQL + PyJWT + Docker
-- Git
-
-**Другое**
-- Hack The Box (активно решаю)
-- Базовые знания сетей и криптографии
-
----
-
-### Проекты
-
-#### 1. Flask Backend (в разработке)
-Небольшой веб-бэкенд на Flask с использованием:
-- MySQL
-- JWT-аутентификации (PyJWT)
-- Docker
-
-**Акцент на безопасность**: валидация данных, работа с токенами, контейнеризация.
-
-→ [Ссылка на репозиторий](https://github.com/ShalaPai4ek/planirovshchik-lichnyh-zadach)
-
-#### 2. Скрипты автоматизации
-Небольшие Python и Bash-скрипты для повседневных задач и обучения.
-
-→ [`scripts/`](./scripts)
-*(пока в процессе наполнения)*
-
-#### 3. Hack The Box Write-ups
-Подробные разборы решённых машин (nmap → enumeration → exploitation).
-
-→ [`htb-writeups/`](./htb-writeups)  
-*(пока в процессе наполнения)*
-
----
-
-### Сертификаты
-
-- Курс Astra Linux (колледж)
-
----
-
-### Статистика практики
-
-- Hack The Box
-- Планирую участие в CTF зимой 2026
-- LeetCode
-
----
-
-### Контакты
-
-- Email: добавлю позже
-- LinkedIn: добавлю позже
-
----
-
-### Планы развития
-
-- [ ] Написать 5+ качественных HTB write-up’ов
-- [ ] Поднять учебный SIEM (Wazuh / ELK) и описать
-- [ ] Углубить криптографию и Wireshark
-- [ ] Получить CompTIA Security+ или аналог
-- [ ] Участие в CTF
-
----
-
-*Последнее обновление: Октябрь 2026*
