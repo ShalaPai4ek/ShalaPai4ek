@@ -39,7 +39,3 @@ shalapai4ek@gmail.com
 
 Среднее профессиональное образование — в процессе получения, 3 курс колледжа.
 
-
-## Портфолио
-
-GitHub: https://github.com/ShalaPai4ek
