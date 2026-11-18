@@ -1,18 +1,45 @@
-<h1 align="center">Hi 👋, I'm ShalaPai4ek</h1>
-<h3 align="center">I am an aspiring information security specialist with a practical focus on Linux, network security, and web development.</h3>
+# Резюме специалист по технической защите информации
 
-- 🌱 I’m currently learning **Rust and CTF tasks**
+**Контакты:** 
 
-- 📫 How to reach me **shalapai4ek@gmail.com**
+shalapai4ek@gmail.com
 
-- ⚡ Fun fact **I don’t post everything I do on GitHub :P**
+## О себе
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Начинающий специалист в области информационной безопасности с практическим опытом самостоятельного изучения и применения инструментов технической защиты информации.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
+Работаю с Linux, изучаю методы выявления и анализа уязвимостей, занимаюсь настройкой систем и автоматизацией задач с использованием Python и Bash.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shalapai4ek&show_icons=true&locale=en" alt="shalapai4ek" /></p>
+Практические навыки развиваю посредством самостоятельных проектов и выполнения технических заданий на открытых платформах. Обладаю высокой обучаемостью, заинтересован в развитии в направлении технической защиты информации и безопасности Linux-систем.
 
+## Ключевые навыки
+
+- Поиск и первичный анализ уязвимостей.
+- Работа с инструментами анализа безопасности из Kali Linux.
+- Настройка и администрирование Linux-систем на базовом уровне.
+- Написание скриптов автоматизации на Python и Bash.
+- Настройка конфигураций Linux.
+- Базовые знания реверс-инжиниринга.
+- Основы работы с Docker, Git и MySQL.
+
+## Технический стек
+
+- **Операционные системы:** Arch Linux, Astra Linux, Kali Linux.
+- **Языки и скрипты:** Python (Junior), Bash (базовый уровень).
+- **Инструменты:** Git, Docker, MySQL.
+- **Информационная безопасность:** инструменты Kali Linux, анализ уязвимостей, основы реверс-инжиниринга.
+
+## Опыт работы
+
+Коммерческий опыт работы в сфере информационной безопасности отсутствует.
+
+Практические навыки получены в ходе самостоятельного изучения, работы с Linux-системами и выполнения технических заданий на открытых платформах.
+
+## Образование
+
+Среднее профессиональное образование — в процессе получения, 3 курс колледжа.
+
+
+## Портфолио
+
+GitHub: https://github.com/ShalaPai4ek
